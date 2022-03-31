@@ -1,0 +1,1 @@
+{"version":3,"sources":["view/Admin/kategoriler/Kategori.jsx"],"names":["Kategori"],"mappings":"mGAAA,+DAEe,SAASA,IACtB,OACE","file":"static/js/10.87af9aad.chunk.js","sourcesContent":["import React from 'react'\r\n\r\nexport default function Kategori() {\r\n  return (\r\n    <div>Kategori</div>\r\n  )\r\n}\r\n"],"sourceRoot":""}

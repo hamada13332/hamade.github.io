@@ -1,0 +1,1 @@
+{"version":3,"sources":["view/Admin/main/Main.js"],"names":["Main"],"mappings":"mGAAA,+DAEe,SAASA,IACtB,OACE","file":"static/js/11.75841ec6.chunk.js","sourcesContent":["import React from 'react'\r\n\r\nexport default function Main() {\r\n  return (\r\n    <div>Main</div>\r\n  )\r\n}\r\n"],"sourceRoot":""}

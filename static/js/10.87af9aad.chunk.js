@@ -1,0 +1,2 @@
+(this.webpackJsonpclient=this.webpackJsonpclient||[]).push([[10],{357:function(t,n,e){"use strict";e.r(n),e.d(n,"default",(function(){return c}));e(0);var i=e(8);function c(){return Object(i.jsx)("div",{children:"Kategori"})}}}]);
+//# sourceMappingURL=10.87af9aad.chunk.js.map
